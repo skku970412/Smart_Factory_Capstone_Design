@@ -1,0 +1,253 @@
+iteration 0 evaluating: 30.0
+280 : 0.13501,loss 0.1329777091741562
+settings['evaluate_every'] 300
+i  300
+settings['best'] 30.0
+val_acc 60.0
+
+iteration 300 evaluating: 60.0
+580 : 0.05587,loss 0.10214783251285553
+settings['evaluate_every'] 300
+i  600
+settings['best'] 60.0
+val_acc 50.0
+880 : 0.04935,loss 0.12400239706039429
+settings['evaluate_every'] 300
+i  900
+settings['best'] 60.0
+val_acc 50.0
+1180 : 0.10040,loss 0.03309473395347595
+settings['evaluate_every'] 300
+i  1200
+settings['best'] 60.0
+val_acc 50.0
+1480 : 0.02043,loss 0.06855390965938568
+settings['evaluate_every'] 300
+i  1500
+settings['best'] 60.0
+val_acc 63.333333333333336
+
+iteration 1500 evaluating: 63.333333333333336
+1780 : 0.01576,loss 0.10012517869472504
+settings['evaluate_every'] 300
+i  1800
+settings['best'] 63.333333333333336
+val_acc 60.0
+2080 : 0.04140,loss 0.013001064769923687
+settings['evaluate_every'] 300
+i  2100
+settings['best'] 63.333333333333336
+val_acc 66.66666666666667
+
+iteration 2100 evaluating: 66.66666666666667
+2380 : 0.01280,loss 0.012722826562821865
+settings['evaluate_every'] 300
+i  2400
+settings['best'] 66.66666666666667
+val_acc 60.0
+2680 : 0.01529,loss 0.02337462268769741
+settings['evaluate_every'] 300
+i  2700
+settings['best'] 66.66666666666667
+val_acc 50.0
+2980 : 0.00829,loss 0.0071988822892308235
+settings['evaluate_every'] 300
+i  3000
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+3280 : 0.02110,loss 0.021616626530885696
+settings['evaluate_every'] 300
+i  3300
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+3580 : 0.02112,loss 0.01071906741708517
+settings['evaluate_every'] 300
+i  3600
+settings['best'] 66.66666666666667
+val_acc 50.0
+3880 : 0.00540,loss 0.006995086092501879
+settings['evaluate_every'] 300
+i  3900
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+4180 : 0.00544,loss 0.004081571940332651
+settings['evaluate_every'] 300
+i  4200
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+4480 : 0.01267,loss 0.009372864849865437
+settings['evaluate_every'] 300
+i  4500
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+4780 : 0.00335,loss 0.004885006230324507
+settings['evaluate_every'] 300
+i  4800
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+5080 : 0.00325,loss 0.0252870861440897
+settings['evaluate_every'] 300
+i  5100
+settings['best'] 66.66666666666667
+val_acc 60.0
+5380 : 0.00455,loss 0.00539523595944047
+settings['evaluate_every'] 300
+i  5400
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+5680 : 0.00400,loss 0.0026350736152380705
+settings['evaluate_every'] 300
+i  5700
+settings['best'] 66.66666666666667
+val_acc 50.0
+5980 : 0.00625,loss 0.005999284330755472
+settings['evaluate_every'] 300
+i  6000
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+6280 : 0.00228,loss 0.004668057430535555
+settings['evaluate_every'] 300
+i  6300
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+6580 : 0.00211,loss 0.0025340779684484005
+settings['evaluate_every'] 300
+i  6600
+settings['best'] 66.66666666666667
+val_acc 50.0
+6880 : 0.00229,loss 0.0007143166149035096
+settings['evaluate_every'] 300
+i  6900
+settings['best'] 66.66666666666667
+val_acc 60.0
+7180 : 0.00132,loss 0.074603371322155
+settings['evaluate_every'] 300
+i  7200
+settings['best'] 66.66666666666667
+val_acc 60.0
+7480 : 0.00142,loss 0.002970119472593069
+settings['evaluate_every'] 300
+i  7500
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+7780 : 0.00242,loss 0.0016046145465224981
+settings['evaluate_every'] 300
+i  7800
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+8080 : 0.00224,loss 0.001610025530681014
+settings['evaluate_every'] 300
+i  8100
+settings['best'] 66.66666666666667
+val_acc 60.0
+8380 : 0.00841,loss 0.002086890395730734
+settings['evaluate_every'] 300
+i  8400
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+8680 : 0.00209,loss 0.004210392013192177
+settings['evaluate_every'] 300
+i  8700
+settings['best'] 66.66666666666667
+val_acc 60.0
+8980 : 0.00535,loss 0.0026004952378571033
+settings['evaluate_every'] 300
+i  9000
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+9280 : 0.00347,loss 0.0005100134876556695
+settings['evaluate_every'] 300
+i  9300
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+9580 : 0.00091,loss 0.004841692745685577
+settings['evaluate_every'] 300
+i  9600
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+9880 : 0.00083,loss 0.0010983450338244438
+settings['evaluate_every'] 300
+i  9900
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+10180 : 0.00178,loss 0.0022912356071174145
+settings['evaluate_every'] 300
+i  10200
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+10480 : 0.00070,loss 0.0007469829288311303
+settings['evaluate_every'] 300
+i  10500
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+10780 : 0.00125,loss 0.0005652346299029887
+settings['evaluate_every'] 300
+i  10800
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+11080 : 0.00097,loss 0.0017636537086218596
+settings['evaluate_every'] 300
+i  11100
+settings['best'] 66.66666666666667
+val_acc 60.0
+11380 : 0.00051,loss 0.00030826960573904216
+settings['evaluate_every'] 300
+i  11400
+settings['best'] 66.66666666666667
+val_acc 46.666666666666664
+11680 : 0.00222,loss 0.004119492135941982
+settings['evaluate_every'] 300
+i  11700
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+11980 : 0.00079,loss 0.0014346938114613295
+settings['evaluate_every'] 300
+i  12000
+settings['best'] 66.66666666666667
+val_acc 60.0
+12280 : 0.00326,loss 0.0019196320790797472
+settings['evaluate_every'] 300
+i  12300
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+12580 : 0.00302,loss 0.0006104052299633622
+settings['evaluate_every'] 300
+i  12600
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+12880 : 0.01578,loss 0.0006063976907171309
+settings['evaluate_every'] 300
+i  12900
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+13180 : 0.00069,loss 0.0006904755719006062
+settings['evaluate_every'] 300
+i  13200
+settings['best'] 66.66666666666667
+val_acc 60.0
+13480 : 0.00045,loss 0.000670734909363091
+settings['evaluate_every'] 300
+i  13500
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+13780 : 0.00016,loss 0.00046991495764814317
+settings['evaluate_every'] 300
+i  13800
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+14080 : 0.00050,loss 0.000302578933769837
+settings['evaluate_every'] 300
+i  14100
+settings['best'] 66.66666666666667
+val_acc 53.333333333333336
+14380 : 0.00068,loss 0.0015178228495642543
+settings['evaluate_every'] 300
+i  14400
+settings['best'] 66.66666666666667
+val_acc 56.666666666666664
+14680 : 0.00195,loss 0.0010790197411552072
+settings['evaluate_every'] 300
+i  14700
+settings['best'] 66.66666666666667
+val_acc 63.333333333333336
+14980 : 0.00079,66.66666666666667

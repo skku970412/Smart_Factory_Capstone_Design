@@ -1,0 +1,204 @@
+PS C:\Users\LJU\Desktop\capston> & C:/Users/LJU/AppData/Local/Programs/Python/Python36/python.exe c:/Users/LJU/Desktop/capston/LDRBFault-Diagnosis-with-Few-shot-Learning-master_-_new_paper_ori/expAB.py
+2023-02-18 19:58:18.275450: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudart64_110.dll
+Datasets/CWRU 12DriveEndFault 1730
+0 Datasets/CWRU\NormalBaseline\1730\Normal.mat
+(485643, 2)
+1 Datasets/CWRU\NormalBaseline\1750\Normal.mat
+dict_keys(['__header__', '__version__', '__globals__', 'ans', 'X098_DE_time', 'X098_FE_time', 'X099_DE_time', 'X099_FE_time'])
+(483903, 2)
+2 Datasets/CWRU\NormalBaseline\1772\Normal.mat
+(483903, 2)
+3 Datasets/CWRU\12DriveEndFault\1730\0.007-Ball.mat
+(121556, 2)
+4 Datasets/CWRU\12DriveEndFault\1750\0.007-Ball.mat
+(121556, 2)
+5 Datasets/CWRU\12DriveEndFault\1772\0.007-Ball.mat
+(121410, 2)
+6 Datasets/CWRU\12DriveEndFault\1730\0.014-Ball.mat
+(122136, 2)
+7 Datasets/CWRU\12DriveEndFault\1750\0.014-Ball.mat
+(121991, 2)
+8 Datasets/CWRU\12DriveEndFault\1772\0.014-Ball.mat
+(122136, 2)
+9 Datasets/CWRU\12DriveEndFault\1730\0.021-Ball.mat
+(122136, 2)
+10 Datasets/CWRU\12DriveEndFault\1750\0.021-Ball.mat
+(122136, 2)
+11 Datasets/CWRU\12DriveEndFault\1772\0.021-Ball.mat
+(121701, 2)
+12 Datasets/CWRU\12DriveEndFault\1730\0.007-InnerRace.mat
+(122917, 2)
+13 Datasets/CWRU\12DriveEndFault\1750\0.007-InnerRace.mat
+(122136, 2)
+14 Datasets/CWRU\12DriveEndFault\1772\0.007-InnerRace.mat
+(121991, 2)
+15 Datasets/CWRU\12DriveEndFault\1730\0.014-InnerRace.mat
+(121701, 2)
+16 Datasets/CWRU\12DriveEndFault\1750\0.014-InnerRace.mat
+(121846, 2)
+17 Datasets/CWRU\12DriveEndFault\1772\0.014-InnerRace.mat
+(121846, 2)
+18 Datasets/CWRU\12DriveEndFault\1730\0.021-InnerRace.mat
+(121991, 2)
+19 Datasets/CWRU\12DriveEndFault\1750\0.021-InnerRace.mat
+(121846, 2)
+20 Datasets/CWRU\12DriveEndFault\1772\0.021-InnerRace.mat
+(121556, 2)
+21 Datasets/CWRU\12DriveEndFault\1730\0.007-OuterRace6.mat
+(122571, 2)
+22 Datasets/CWRU\12DriveEndFault\1750\0.007-OuterRace6.mat
+(121410, 2)
+23 Datasets/CWRU\12DriveEndFault\1772\0.007-OuterRace6.mat
+(122426, 2)
+24 Datasets/CWRU\12DriveEndFault\1730\0.014-OuterRace6.mat
+(121991, 2)
+25 Datasets/CWRU\12DriveEndFault\1750\0.014-OuterRace6.mat
+(121846, 2)
+26 Datasets/CWRU\12DriveEndFault\1772\0.014-OuterRace6.mat
+(122136, 2)
+27 Datasets/CWRU\12DriveEndFault\1730\0.021-OuterRace6.mat
+(121991, 2)
+28 Datasets/CWRU\12DriveEndFault\1750\0.021-OuterRace6.mat
+(122281, 2)
+29 Datasets/CWRU\12DriveEndFault\1772\0.021-OuterRace6.mat
+(121991, 2)
+Using TensorFlow backend.
+2023-02-18 19:59:34.227600: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2023-02-18 19:59:34.228964: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library nvcuda.dll
+2023-02-18 19:59:34.275096: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1720] Found device 0 with properties: 
+pciBusID: 0000:06:00.0 name: NVIDIA GeForce RTX 3060 computeCapability: 8.6
+coreClock: 1.882GHz coreCount: 28 deviceMemorySize: 12.00GiB deviceMemoryBandwidth: 335.32GiB/s
+2023-02-18 19:59:34.275560: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudart64_110.dll
+2023-02-18 19:59:34.280677: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cublas64_11.dll
+2023-02-18 19:59:34.280893: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cublasLt64_11.dll
+2023-02-18 19:59:34.300157: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cufft64_10.dll
+2023-02-18 19:59:34.301890: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library curand64_10.dll
+2023-02-18 19:59:34.357961: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cusolver64_10.dll
+2023-02-18 19:59:34.376555: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cusparse64_11.dll
+2023-02-18 19:59:34.379978: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudnn64_8.dll
+2023-02-18 19:59:34.381419: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1862] Adding visible gpu devices: 0
+2023-02-18 19:59:34.382197: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-02-18 19:59:34.384096: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1720] Found device 0 with properties:
+pciBusID: 0000:06:00.0 name: NVIDIA GeForce RTX 3060 computeCapability: 8.6
+coreClock: 1.882GHz coreCount: 28 deviceMemorySize: 12.00GiB deviceMemoryBandwidth: 335.32GiB/s
+2023-02-18 19:59:34.384654: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudart64_110.dll
+2023-02-18 19:59:34.386066: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cublas64_11.dll
+2023-02-18 19:59:34.386343: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cublasLt64_11.dll
+2023-02-18 19:59:34.386473: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cufft64_10.dll
+2023-02-18 19:59:34.386595: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library curand64_10.dll
+2023-02-18 19:59:34.386873: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cusolver64_10.dll
+2023-02-18 19:59:34.387005: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cusparse64_11.dll
+2023-02-18 19:59:34.387134: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library cudnn64_8.dll
+2023-02-18 19:59:34.387303: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1862] Adding visible gpu devices: 0
+2023-02-18 19:59:34.906608: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1261] Device interconnect StreamExecutor with strength 1 edge matrix:
+2023-02-18 19:59:34.906865: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1267]      0 
+2023-02-18 19:59:34.907096: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1280] 0:   N
+2023-02-18 19:59:34.907378: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1406] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10484 MB memory) -> physical GPU (device: 0, name: NVIDIA GeForce RTX 3060, pci bus id: 0000:06:00.0, compute capability: 8.6)
+2023-02-18 19:59:34.908303: I tensorflow/compiler/jit/xla_gpu_device.cc:99] Not creating XLA devices, tf_xla_enable_xla_devices not set
+tf.Tensor(b'why?', shape=(), dtype=string)
+2023-02-18 19:59:35.071607: I tensorflow/stream_executor/cuda/cuda_driver.cc:789] failed to allocate 10.24G (10994067712 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-02-18 19:59:35.223750: I tensorflow/stream_executor/cuda/cuda_driver.cc:789] failed to allocate 9.21G (9894660096 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-02-18 19:59:35.375143: I tensorflow/stream_executor/cuda/cuda_driver.cc:789] failed to allocate 8.29G (8905193472 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+
+siamese_net summary:
+Model: "model"
+__________________________________________________________________________________________________
+Layer (type)                    Output Shape         Param #     Connected to
+==================================================================================================
+input_1 (InputLayer)            [(None, 2048, 2)]    0
+__________________________________________________________________________________________________
+input_2 (InputLayer)            [(None, 2048, 2)]    0
+__________________________________________________________________________________________________
+sequential (Sequential)         (None, 100)          38940       input_1[0][0]
+                                                                 input_2[0][0]
+__________________________________________________________________________________________________
+lambda (Lambda)                 (None, 100)          0           sequential[0][0]
+                                                                 sequential[1][0]
+__________________________________________________________________________________________________
+dropout (Dropout)               (None, 100)          0           lambda[0][0]
+__________________________________________________________________________________________________
+dense_2 (Dense)                 (None, 1)            101         dropout[0][0]
+==================================================================================================
+Total params: 39,041
+Trainable params: 39,041
+Non-trainable params: 0
+__________________________________________________________________________________________________
+
+sequential_3 is WDCNN:
+Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+separable_conv1d (SeparableC (None, 256, 14)           4538
+_________________________________________________________________
+max_pooling1d (MaxPooling1D) (None, 85, 14)            0
+_________________________________________________________________
+separable_conv1d_1 (Separabl (None, 85, 32)            522
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 28, 32)            0
+_________________________________________________________________
+separable_conv1d_2 (Separabl (None, 28, 64)            2176
+_________________________________________________________________
+max_pooling1d_2 (MaxPooling1 (None, 9, 64)             0
+_________________________________________________________________
+separable_conv1d_3 (Separabl (None, 9, 64)             4352
+_________________________________________________________________
+max_pooling1d_3 (MaxPooling1 (None, 4, 64)             0
+_________________________________________________________________
+separable_conv1d_4 (Separabl (None, 4, 64)             4352
+_________________________________________________________________
+max_pooling1d_4 (MaxPooling1 (None, 2, 64)             0
+_________________________________________________________________
+flatten (Flatten)            (None, 128)               0
+_________________________________________________________________
+dense (Dense)                (None, 100)               12900
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 100)               0
+_________________________________________________________________
+dense_1 (Dense)              (None, 100)               10100
+=================================================================
+Total params: 38,940
+Trainable params: 38,940
+Non-trainable params: 0
+_________________________________________________________________
+72006
+
+wdcnn_net summary:
+Model: "model_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+input_3 (InputLayer)         [(None, 2048, 2)]         0
+_________________________________________________________________
+sequential_1 (Sequential)    (None, 100)               70996
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 100)               0
+dense_4 (Dense)              (None, 10)                1010
+=================================================================
+Total params: 72,006
+Trainable params: 72,006
+Non-trainable params: 0
+_________________________________________________________________
+300
+random seed: 0
+
+60-0********************************************************************************
+[2281, 1786, 1535, 8697, 1920, 3126, 15011, 13885, 17716, 13193]
+[3938, 6914, 9884, 7442, 6055, 19713, 16135, 10726, 16988, 7502]
+{'train': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], 'val': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+tt
+[3, 3, 3, 3, 3, 3, 3, 3, 3, 3] [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+t2
+72006
+load best weights tmp/EXP-AB/size_60/time_0/weights-best-10-oneshot-low-data.hdf5
+Traceback (most recent call last):
+  File "c:/Users/LJU/Desktop/capston/LDRBFault-Diagnosis-with-Few-shot-Learning-master_-_new_paper_ori/expAB.py", line 205, in <module>
+    EXPAB_train_and_test(exp_name,exps,is_training)
+  File "c:/Users/LJU/Desktop/capston/LDRBFault-Diagnosis-with-Few-shot-Learning-master_-_new_paper_ori/expAB.py", line 137, in EXPAB_train_and_test
+    siamese_net.load_weights(settings["save_path"] + settings['save_weights_file'])
+  File "C:\Users\LJU\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\keras\engine\training.py", line 2234, in load_weights
+    hdf5_format.load_weights_from_hdf5_group(f, self.layers)
+  File "C:\Users\LJU\AppData\Local\Programs\Python\Python36\lib\site-packages\tensorflow\python\keras\saving\hdf5_format.py", line 708, in load_weights_from_hdf5_group
+    str(len(weight_values)) + ' elements.')
+ValueError: Layer #0 (named "sequential_2" in the current model) was found to correspond to layer sequential_7 in the save file. However the new layer sequential_2 expects 19 weights, but the saved weights have 12 elements.

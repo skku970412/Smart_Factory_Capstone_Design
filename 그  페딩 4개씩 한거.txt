@@ -1,0 +1,1011 @@
+2023-02-23 08:45:58.141648: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.199809: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.259155: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.314119: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.372779: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.435684: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.504547: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.575855: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.650549: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.721198: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.792580: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.866439: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:58.940023: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.023589: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.096834: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.169603: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.246606: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.319652: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.392584: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.468114: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.548155: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.626674: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.705765: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.778428: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.850986: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:45:59.922157: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.002350: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.091429: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.166510: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.250228: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.321565: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.391674: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.466152: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.540088: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.611410: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.691132: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.764645: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.838590: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.911254: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:00.983125: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.056098: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.129816: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.218782: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.298853: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.384596: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.467245: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.541982: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.613983: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.688666: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.761858: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.836224: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.907473: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:01.984189: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.055573: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.128240: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.201083: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.272627: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.346674: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.427211: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.501267: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.575659: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.646557: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.719761: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.792942: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.866622: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:02.936232: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.015423: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.084777: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.160461: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.273204: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.349872: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.422541: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.495450: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.574315: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.658417: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.729869: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.805104: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.877075: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:03.947699: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.019642: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.091559: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.164714: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.246082: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.316420: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.391123: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.462497: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.533874: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.609004: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.690250: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.769471: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.851802: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:04.930585: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.003955: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.073817: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.146420: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.222582: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.295149: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.368759: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.444302: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.515236: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.592410: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.670531: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.741305: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.812041: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.889557: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:05.967967: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.044607: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.117425: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.189627: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.262656: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.335972: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.407468: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.480882: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.554076: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.627587: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.702557: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.775703: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.846788: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.919914: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:06.992686: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.070839: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.148220: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.227585: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.299768: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.371220: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.442347: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.515005: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.587176: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.659053: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.733619: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.805282: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.879646: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:07.953384: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.028587: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.103117: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.179938: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.270254: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.350049: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.432030: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.502737: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.575656: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.646504: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.718690: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.789296: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.864427: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:08.938189: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.010424: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.082986: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.153004: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.229125: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.301263: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.372928: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.455718: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.528471: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.605139: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.675344: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.747374: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.817401: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.890977: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:09.962414: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.039848: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.111601: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.182593: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.262372: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.333712: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.405954: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.477672: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.551915: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.634472: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.710806: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.786104: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.857102: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:10.930161: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.003784: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.077157: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.148429: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.230392: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.301998: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.380087: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.455898: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.533174: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.608596: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.688402: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.767685: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.844880: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.916902: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:11.990605: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.062834: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.135101: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.208548: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.284443: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.354988: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.431426: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.502298: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.577616: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.648721: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.720230: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.792164: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.863838: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:12.940297: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.017908: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.091889: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.163765: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.237667: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.312692: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.383649: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.459631: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.531501: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.605436: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.676926: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.749966: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.819372: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.891259: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:13.961456: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.033763: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.112377: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.191108: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.270570: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.340986: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.412148: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.484702: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.556753: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.628529: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.706329: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.784202: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.859746: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:14.940088: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:46:15.016871: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+WARNING:tensorflow:Can save best model only with val_acc available, skipping.
+load best weights tmp/EXP-AB-20230223-1/size_60/time_0/weights-best-10-oneshot-low-data.hdf5
+load best weights tmp/EXP-AB-20230223-1/size_60/time_0/weights-best-10-cnn-low-data.hdf5
+
+60_0_-4********************************************************************************
+38.4 (750, 2) (750, 10, 1)
+38.266666666666666 (750, 2) (750, 10, 1)
+38.266666666666666 (750, 2) (750, 10, 1)
+39.06666666666667 (750, 2) (750, 10, 1)
+38.13333333333333 (750, 2) (750, 10, 1)
+5_shot: 38.266666666666666
+5_shot_prod: 38.4
+2023-02-23 08:49:24.770647: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:24.818640: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:24.870295: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:24.920325: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:24.972394: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.023977: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.074818: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.124460: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.173725: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.235285: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.305910: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.376753: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.454803: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.528710: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.606670: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.685645: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.762194: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.826177: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.885933: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:25.944153: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.010040: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.073622: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.138787: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.207811: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.275708: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.340088: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.409461: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.469898: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.536243: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.600552: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.789095: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.859965: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.929080: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:26.999043: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.063936: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.132253: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.203453: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.271726: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.338998: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.407991: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.483124: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.552866: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.625861: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.698837: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.774894: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.852544: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.926925: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:27.999754: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.072539: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.147501: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.222284: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.310335: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.387220: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.469180: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.542891: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.622584: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.702666: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.777062: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.868551: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:28.950906: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.050103: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.126598: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.205772: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.280989: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.357994: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.435252: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.517647: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.591043: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.707732: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.781113: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.855875: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:29.932621: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.014056: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.091486: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.167477: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.240966: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.315807: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.391435: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.465062: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.535907: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.608070: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.687377: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.758803: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.832098: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.904493: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:30.975447: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.052702: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.125777: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.204558: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.280190: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.356653: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.434684: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.623566: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.696138: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.766028: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.846333: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.917670: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:31.991042: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.062153: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.132803: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.204739: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.279672: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.356932: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.439576: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.520515: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.600547: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.678442: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.750365: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.822203: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.891158: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:32.960606: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.049677: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.121088: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.194058: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.262989: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.332676: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.405499: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.478003: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.563736: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.637373: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.709638: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.778208: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.845612: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.912849: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:33.981071: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.048897: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.117741: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.185254: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.250875: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.321360: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.391053: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.462632: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.529068: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.598054: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.670807: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.746782: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.823385: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.888071: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:34.955775: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.018798: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.084841: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.149055: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.213518: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.275546: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.342609: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.408243: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.477483: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.540791: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.605317: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.672969: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.746235: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.821223: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.891080: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:35.959082: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.022103: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.083972: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.146196: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.207281: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.268705: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.329637: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.391490: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.455481: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.519491: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.583937: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.647155: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.711691: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.772625: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.834174: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.900703: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:36.966418: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.031284: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.091094: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.151700: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.240641: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.302294: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.363571: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.427089: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.487708: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.549978: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.612974: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.675746: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.738237: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.800285: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+2023-02-23 08:49:37.862154: I tensorflow/core/platform/windows/subprocess.cc:308] SubProcess ended with return code: 4294967295
+
+wdcnn: 38.66666555404663
+
+60_0_-2********************************************************************************
+54.13333333333333 (750, 2) (750, 10, 1)
+55.2 (750, 2) (750, 10, 1)
+54.8 (750, 2) (750, 10, 1)
+54.666666666666664 (750, 2) (750, 10, 1)
+54.8 (750, 2) (750, 10, 1)
+5_shot: 55.06666666666666
+5_shot_prod: 55.06666666666666
+wdcnn: 43.06666553020477
+
+60_0_0********************************************************************************
+60.666666666666664 (750, 2) (750, 10, 1)
+60.4 (750, 2) (750, 10, 1)
+60.666666666666664 (750, 2) (750, 10, 1)
+60.0 (750, 2) (750, 10, 1)
+60.53333333333333 (750, 2) (750, 10, 1)
+5_shot: 60.93333333333333
+5_shot_prod: 59.86666666666667
+wdcnn: 45.73333263397217
+
+60_0_2********************************************************************************
+63.6 (750, 2) (750, 10, 1)
+64.0 (750, 2) (750, 10, 1)
+62.666666666666664 (750, 2) (750, 10, 1)
+63.6 (750, 2) (750, 10, 1)
+63.46666666666667 (750, 2) (750, 10, 1)
+5_shot: 63.06666666666667
+5_shot_prod: 64.13333333333333
+wdcnn: 47.866666316986084
+
+60_0_4********************************************************************************
+65.2 (750, 2) (750, 10, 1)
+66.26666666666667 (750, 2) (750, 10, 1)
+66.0 (750, 2) (750, 10, 1)
+65.06666666666666 (750, 2) (750, 10, 1)
+65.73333333333333 (750, 2) (750, 10, 1)
+5_shot: 66.0
+5_shot_prod: 66.13333333333333
+wdcnn: 48.39999973773956
+
+60_0_6********************************************************************************
+67.06666666666666 (750, 2) (750, 10, 1)
+67.6 (750, 2) (750, 10, 1)
+66.8 (750, 2) (750, 10, 1)
+67.2 (750, 2) (750, 10, 1)
+67.06666666666666 (750, 2) (750, 10, 1)
+5_shot: 67.60000000000001
+5_shot_prod: 66.93333333333334
+wdcnn: 47.733333706855774
+
+60_0_8********************************************************************************
+68.8 (750, 2) (750, 10, 1)
+67.73333333333333 (750, 2) (750, 10, 1)
+67.2 (750, 2) (750, 10, 1)
+68.13333333333334 (750, 2) (750, 10, 1)
+68.13333333333334 (750, 2) (750, 10, 1)
+5_shot: 68.0
+5_shot_prod: 68.53333333333333
+wdcnn: 48.66666793823242
+
+60_0_10********************************************************************************
+68.53333333333333 (750, 2) (750, 10, 1)
+68.13333333333334 (750, 2) (750, 10, 1)
+67.2 (750, 2) (750, 10, 1)
+69.06666666666666 (750, 2) (750, 10, 1)
+68.4 (750, 2) (750, 10, 1)
+5_shot: 67.46666666666667
+5_shot_prod: 69.73333333333333
+wdcnn: 48.93333315849304
+
+60_0_None********************************************************************************
+67.73333333333333 (750, 2) (750, 10, 1)
+69.33333333333333 (750, 2) (750, 10, 1)
+69.73333333333333 (750, 2) (750, 10, 1)
+68.0 (750, 2) (750, 10, 1)
+69.6 (750, 2) (750, 10, 1)
+5_shot: 68.53333333333333
+5_shot_prod: 69.86666666666666
+wdcnn: 50.40000081062317
