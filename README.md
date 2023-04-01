@@ -2,6 +2,9 @@
 
 본 프로젝트는 스캡디에서 진행된 Fault Diagnosis with Few-shot Learning (LSTM-WDCNN) 프로젝트입니다. 본 프로젝트는 CWRU Ball Bearing 데이터를 이용하여, LSTM과 WDCNN을 사용하여 Fault Diagnosis를 수행합니다.
 
+안돌아가는 코드입니다.
+
+
 ## 기술 스택
 
 본 프로젝트는 다음과 같은 기술 스택으로 작성되었습니다.
