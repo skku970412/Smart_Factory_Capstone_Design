@@ -125,7 +125,7 @@ def EXPAB_train_and_test(exp_name,exps,is_training):
             # checkpoint
             # filepath="tmp/weights-best-cnn-{epoch:02d}-{val_acc:.2f}.hdf5"
             filepath="%sweights-best-10-cnn-low-data.hdf5" % (settings["save_path"])
-            checkpoint = ModelCheckpoint(filepath, monitor='val_acc', verbose=0, save_best_only=True, mode='max')
+            checkpoint = ModelCheckpoint(filepath, monitor='val_loss', verbose=0, save_best_only=True, mode='max')
             callbacks_list = [earlyStopping,checkpoint]
 
             wdcnn_net = models.load_wdcnn_net()
